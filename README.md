@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha sheikh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400"src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_KLNKfPt8wMIZF9KxweN01HJmdtc2XCXba3fkscRV0ZoPGx_67caott-tZ_lTKujZmMA&usqp=CAU">
+<img src"https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" align="right" alt="coding" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehasheikh123&label=Profile%20views&color=0e75b6&style=flat" alt="snehasheikh123" /> </p>
 
