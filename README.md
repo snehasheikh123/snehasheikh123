@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehasheikh123&label=Profile%20views&color=0e75b6&style=flat" alt="snehasheikh123" /> </p>
 
-- 🔭 I’m currently working on **🔭 I’m currently working on developing innovative web applications, enhancing my skills in both front-end and back-end technologies to create impactful and user-friendly digital solutions.**
+-  I’m currently working on developing innovative web applications, enhancing my skills in both front-end and back-end technologies to create impactful and user-friendly digital solutions.**
 
 - 🌱 I’m currently learning **I’m currently learning back-end development to complement my front-end skills, focusing on building robust and dynamic web applications using various technologies.**
 
