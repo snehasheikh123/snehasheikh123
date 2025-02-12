@@ -4,17 +4,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehasheikh123&label=Profile%20views&color=0e75b6&style=flat" alt="snehasheikh123" /> </p>
 
--  I’m currently working on developing innovative web applications, enhancing my skills in both front-end and back-end technologies to create impactful and user-friendly digital solutions.**
+-  I’m currently working on developing innovative web applications, enhancing my skills in both front-end and back-end technologies to create impactful and user-friendly digital solutions.  
 
-- 🌱 I’m currently learning **I’m currently learning back-end development to complement my front-end skills, focusing on building robust and dynamic web applications using various technologies.**
+- 🌱 I’m currently learning back-end development to complement my front-end skills, focusing on building robust and dynamic web applications using various technologies.
 
-- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on exciting web development projects, especially in the areas of front-end and back-end technologies. I’m eager to work with like-minded individuals to create innovative and impactful digital solutions.**
+- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on exciting web development projects, especially in the areas of front-end and back-end technologies. I’m eager to work with like-minded individuals to create innovative and impactful digital solutions.
 
 - 👨‍💻 All of my projects are available at [github.com/snehasheikh123?tab=repositories](github.com/snehasheikh123?tab=repositories)
 
-- 💬 Ask me about **💬 Ask me about web development, including front-end and back-end technologies, or how to build user-friendly and efficient web applications!**
+- 💬 Ask me about web development, including front-end and back-end technologies, or how to build user-friendly and efficient web applications!
 
-- 📫 How to reach me **LinkedIn:https://www.linkedin.com/in/sneha-perween-1216a2306/Email:snehaazad123@gmail.com**
+- 📫 How to reach me **LinkedIn:https://www.linkedin.com/in/sneha-perween-1216a2306/
+- Email:snehaazad123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
