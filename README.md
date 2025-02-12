@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning back-end development to complement my front-end skills, focusing on building robust and dynamic web applications using various technologies.
 
-- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on exciting web development projects, especially in the areas of front-end and back-end technologies. I’m eager to work with like-minded individuals to create innovative and impactful digital solutions.
+- 👯 I’m looking to collaborate on exciting web development projects, especially in the areas of front-end and back-end technologies. I’m eager to work with like-minded individuals to create innovative and impactful digital solutions.
 
 - 👨‍💻 All of my projects are available at [Click here](github.com/snehasheikh123?tab=repositories)
 
