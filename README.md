@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on exciting web development projects, especially in the areas of front-end and back-end technologies. I’m eager to work with like-minded individuals to create innovative and impactful digital solutions.
 
-- 👨‍💻 All of my projects are available at [github.com/snehasheikh123?tab=repositories](github.com/snehasheikh123?tab=repositories)
+- 👨‍💻 All of my projects are available at [Click here](github.com/snehasheikh123?tab=repositories)
 
 - 💬 Ask me about web development, including front-end and back-end technologies, or how to build user-friendly and efficient web applications!
 
