@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sneha sheikh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src"https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" align="right" alt="coding" width="400">
-
+<div >
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" align="left" alt="logo"  width="400"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snehasheikh123&label=Profile%20views&color=0e75b6&style=flat" alt="snehasheikh123" /> </p>
 
 -  I’m currently working on developing innovative web applications, enhancing my skills in both front-end and back-end technologies to create impactful and user-friendly digital solutions.  
