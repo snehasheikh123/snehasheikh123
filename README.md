@@ -16,8 +16,8 @@
 - 💬 Ask me about web development, including front-end and back-end technologies, or how to build user-friendly and efficient web applications!
 
 - 📫 How to reach me
-- LinkedIn:https://www.linkedin.com/in/sneha-perween-1216a2306/
-- Email:snehaazad123@gmail.com
+- LinkedIn: https://www.linkedin.com/in/sneha-perween-1216a2306/
+- Email: snehaazad123@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
