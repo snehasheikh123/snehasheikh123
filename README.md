@@ -17,7 +17,7 @@
 
 - 📫 How to reach me
 - LinkedIn: https://www.linkedin.com/in/sneha-perween-1216a2306/
-- Email: snehaazad123@gmail.com
+- Email: snehaperween.tech@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
